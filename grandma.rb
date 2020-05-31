@@ -21,7 +21,7 @@ def speak_to_grandma(phrase)
    "NO, NOT SINCE 1938!"
    "I LOVE YOU TOO PUMPKIN!"
 else
-    
+
   end
 
 end
