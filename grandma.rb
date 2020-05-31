@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
- puts "I LOVE YOU TOO PUMPKIN!"
+ "I LOVE YOU TOO PUMPKIN!"
  if phrase != phrase.upcase
-  puts "HUH?! SPEAK UP, SONNY!"
+
 end
